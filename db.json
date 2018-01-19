@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "12@13 Go",
+      "composer": "Jar Jar Binkse",
+      "status": "in preparation",
+      "url": "http://"
+    },
+    {
+      "id": 2,
+      "title": "12@13 Kotlin",
+      "composer": "Ezra Bridger",
+      "status": "canceled",
+      "url": "http://"
+    },
+    {
+      "id": 3,
+      "title": "12@13 Green IT et Eco-conception des logiciels",
+      "composer": "Ashoka Tano",
+      "status": "canceled",
+      "url": "http://"
+    }
+  ]
+}
